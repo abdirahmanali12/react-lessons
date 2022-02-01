@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.general-padding {
+  padding: 0 140px;
+}
+
+.primary-color {
+  background-color: #143568;
+}
+.primary-color-text {
+  color: #143568;
+}
+.secondry-color {
+  background-color: #871cf2;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-red {
+  color: #b61a1a;
+}
+.reverser {
+  flex-direction: row-reverse;
+}
